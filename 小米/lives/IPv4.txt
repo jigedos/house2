@@ -1,15 +1,10 @@
-🌐两岸三地,#genre#
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-翡翠卫视,http://r.jdshipin.com/qClQf
-东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-台灣AXN ,http://50.7.238.114:8278/axn_twn/playlist.m3u8?
-ViuTV6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-东森新闻台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视第一台,http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?
-
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+ELEVEN體育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?
