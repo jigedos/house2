@@ -1,29 +1,29 @@
-{ "urls": [{ "url": "clan://localhost/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/饭太硬/api.json", "name": "饭太硬" },
 
-{ "url": "clan://localhost/tvboxqq/小米/api.json", "name": "小米" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/小米/api.json", "name": "小米" },
 
-{ "url": "clan://localhost/tvboxqq/肥猫/api.json", "name": "肥猫" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/肥猫/api.json", "name": "肥猫" },
 
-{ "url": "clan://localhost/tvboxqq/PG/api.json", "name": "PG" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/PG/api.json", "name": "PG" },
 
-{ "url": "clan://localhost/tvboxqq/香雅情XYQ/api.json", "name": "香雅情XYQ" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/香雅情XYQ/api.json", "name": "香雅情XYQ" },
 
-{ "url": "clan://localhost/tvboxqq/道长JS/api.json", "name": "道长JS" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/道长JS/api.json", "name": "道长JS" },
 
-{ "url": "clan://localhost/tvboxqq/菜妮丝/api.json", "name": "菜妮丝" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/菜妮丝/api.json", "name": "菜妮丝" },
 
-{ "url": "clan://localhost/tvboxqq/南风/api.json", "name": "南风" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/南风/api.json", "name": "南风" },
 
-{ "url": "clan://localhost/tvboxqq/骚零/api.json", "name": "骚零" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/骚零/api.json", "name": "骚零" },
 
-{ "url": "clan://localhost/tvboxqq/天天开心/api.json", "name": "天天开心" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/天天开心/api.json", "name": "天天开心" },
 
-{ "url": "clan://localhost/tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/荷城茶秀/api.json", "name": "荷城茶秀" },
 
-{ "url": "clan://localhost/tvboxqq/白嫖/api.json", "name": "白嫖" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/白嫖/api.json", "name": "白嫖" },
 
-{ "url": "clan://localhost/tvboxqq/小胡/api.json", "name": "小胡" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/小胡/api.json", "name": "小胡" },
 
-{ "url": "clan://localhost/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/少儿频道/api.json", "name": "少儿频道" },
 
-{ "url": "clan://localhost/tvboxqq/动漫频道/api.json", "name": "动漫频道" }]}
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240224/动漫频道/api.json", "name": "动漫频道" }]}
