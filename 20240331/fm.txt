@@ -12,13 +12,11 @@
 
 { "url": "file://tvboxqq/骚零/api.json", "name": "骚零[本地]" },
 
+{ "url": "file://tvboxqq/白嫖/api.json", "name": "白嫖[本地]" },
+
 { "url": "file://tvboxqq/天天开心/api.json", "name": "天天开心[本地]" },
 
 { "url": "file://tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀[本地]" },
-
-{ "url": "file://tvboxqq/白嫖/api.json", "name": "白嫖[本地]" },
-
-{ "url": "file://tvboxqq/小胡/api.json", "name": "小胡[本地]" },
 
 { "url": "file://tvboxqq/少儿频道/api.json", "name": "少儿频道[本地]" },
 
