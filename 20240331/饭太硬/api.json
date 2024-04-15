@@ -1,4 +1,3 @@
-//关注微信公众号：奇友汇，发送“本地包”，获取本地包更新链接与图文教程。
 
 {
     "spider": "./spider.jar",
@@ -6,7 +5,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌕20240411",
+            "name": "🌕20240414",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -109,7 +108,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy77.com/"
+            "ext": "https://www.czys03.com/"
         },
         {
             "key": "南瓜",
