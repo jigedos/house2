@@ -1,6 +1,5 @@
 {
     "urls": [
-// { "url": "", "name": "以下↓为20240331奇奇线路"},
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/饭太硬/api.json", "name": "饭太硬" },
 
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/小米/api.json", "name": "小米" },
