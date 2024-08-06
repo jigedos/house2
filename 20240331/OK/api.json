@@ -76,9 +76,44 @@
             "changeable": 1,
             "ext": {
                 "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "uc_cookie": "file://TV/uc_cookie.txt",
                 "wogg": true
             },
             "timeout": 30
+        },
+        {
+            "key": "立播弹幕版",
+            "name": "🐰立播┃在线",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "uc_cookie": "file://TV/uc_cookie.txt",
+                "site": "https://libvio.link",
+                "danmu": true
+            },
+            "timeout": 30
+        },
+        {
+            "key": "蜡笔弹幕",
+            "name": "👠蜡笔┃在线",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "site": "https://duopan.fun",
+                "danmu": true
+            },
+            "timeout": 25
         },
         {
             "key": "韩圈",
@@ -96,6 +131,16 @@
             "name": "🌸厂长┃直连",
             "type": 3,
             "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "文才",
+            "name": "🌺文才┃在线",
+            "type": 3,
+            "api": "csp_Jpys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -122,6 +167,17 @@
             "filterable": 1,
             "timeout": 10,
             "ext": "{\"cateUrl\":\"https://www.taozi007.com/show/{cateId}--------{page}---.html\", \"cate\":\"电影$1#剧集$2#动漫$3#综艺$4#短剧$5\",\"playFrom\":\".module-tab-items .module-tab-item span\",\"playUrl\":\".module-list .module-play-list\", \"search\":\"/search/{search}-------------.html\", \"webview\":1}"
+        },
+        {
+            "key": "可可",
+            "name": "😝可可┃在线",
+            "type": 3,
+            "api": "csp_Keke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10,
+            "ext": "{\"cateUrl\":\"https://www.keke1.app/show/{cateId}-----3-{page}.html\", \"cate\":\"电影$1#剧集$2#动漫$3#综艺$4#短剧$6\",\"playFrom\":\".swiper-slide .source-item span\",\"playUrl\":\".episode-box-main .episode-list\", \"search\":\"/search?k={search}\"}"
         },
         {
             "key": "荐片",
@@ -204,6 +260,23 @@
             "timeout": 30
         },
         {
+            "key": "我的UC",
+            "name": "😼我的┃UC",
+            "type": 3,
+            "api": "csp_MyUc",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "uc_cookie": "file://TV/uc_cookie.txt"
+            },
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
+        {
             "key": "阿里合集",
             "name": "🦋阿里┃合集",
             "type": 3,
@@ -220,20 +293,6 @@
                 "type": "list"
             },
             "timeout": 30
-        },
-        {
-            "key": "团长",
-            "name": "🗽团长┃4K",
-            "type": 3,
-            "api": "csp_Tzfile",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "file://TV/ali_token.txt",
-                "cookie": "file://TV/quark_cookie.txt"
-            },
-            "timeout": 25
         },
         {
             "key": "土豆网盘",
@@ -269,17 +328,6 @@
             "filterable": 1,
             "api": "./api/drpy2.min.txt?file=drpy2.min.js",
             "ext": "./txt/dadagui.txt",
-            "timeout": 15
-        },
-        {
-            "key": "libvio_js",
-            "name": "🐰利播┃在线",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
-            "ext": "./txt/libvio.txt",
             "timeout": 15
         },
         {
@@ -332,14 +380,14 @@
             "timeout": 20
         },
         {
-            "key": "sp360",
-            "name": "🐛360┃解析",
-            "type": 3,
-            "api": "csp_Sp360",
+            "key": "追风",
+            "name": "🍊追风┃采集",
+            "type": 1,
+            "api": "http://www.zfsp.cc/api.php/provide/vod",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "timeout": 25
+            "timeout": 10
         },
         {
             "key": "快手直播",
@@ -462,18 +510,20 @@
             "timeout": 10
         },
         {
-            "key": "海洋听书js",
-            "name": "🎧海洋┃听书",
+            "key": "bilimd",
+            "name": "🅱哔哩┃影视",
             "type": 3,
-            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
-            "ext": "./txt/haiyangtingshu.txt",
+            "api": "csp_Bilimd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "style": {
                 "type": "rect",
-                "ratio": 1
+                "ratio": 1.433
             },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
+            "ext": {
+                "cookie": "file://TV/bili_cookie.txt"
+            },
             "timeout": 10
         },
         {
@@ -499,7 +549,7 @@
             "name": "🅱哔哔┃歌曲",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
+            "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
             "style": {
@@ -593,6 +643,33 @@
             "timeout": 15
         },
         {
+            "key": "米搜",
+            "name": "🌖米搜┃搜索",
+            "type": 3,
+            "api": "csp_Qkpanso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "file://TV/quark_cookie.txt",
+                "site": "https://www.misou.fun"
+            },
+            "timeout": 15
+        },
+        {
+            "key": "夸搜",
+            "name": "🚢夸搜┃搜索",
+            "type": 3,
+            "api": "csp_Qkso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "file://TV/quark_cookie.txt"
+            },
+            "timeout": 15
+        },
+        {
             "key": "云盘4K",
             "name": "🤖云盘4K┃搜索",
             "type": 3,
@@ -630,7 +707,9 @@
             "changeable": 0,
             "ext": {
                 "token": "file://TV/ali_token.txt",
-                "cookie": "file://TV/quark_cookie.txt"
+                "cookie": "file://TV/quark_cookie.txt",
+                "uc_cookie": "file://TV/uc_cookie.txt",
+                "danmu": true
             },
             "timeout": 5
         }
@@ -685,16 +764,6 @@
             "name": "-听乐-",
             "type": 0,
             "url": "https://jx.dj6u.com/?url="
-        },
-        {
-            "name": "-虾米-",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "-虾米2-",
-            "type": 0,
-            "url": "https://jx.xmflv.cc/?url="
         },
         {
             "name": "-云析-",
@@ -755,6 +824,12 @@
         "mozai.4gtv.tv"
     ],
     "lives": [
+        {
+            "name": "电影",
+            "type": 0,
+            "url": "./lives/电影.txt",
+            "epg": ""
+        },
         {
             "name": "live-1",
             "type": 0,

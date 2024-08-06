@@ -144,7 +144,8 @@
             "api": "csp_Mp4Mov",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.domp4.cc"
         },
         {
             "key": "csp_New6v",
@@ -163,7 +164,8 @@
             "api": "csp_SeedHub",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.seedhub.cc"
         },
         {
             "key": "csp_KubaCL",
@@ -172,7 +174,18 @@
             "api": "csp_KubaCL",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.kubady2.com"
+        },
+        {
+            "key": "csp_MeijuTT",
+            "name": "🧲美剧天堂",
+            "type": 3,
+            "api": "csp_MeijuTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.meijutt.net"
         },
         {
             "key": "csp_MeijuMi",
@@ -228,7 +241,18 @@
             "api": "csp_Bdys",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.yjys02.com"
+        },
+        {
+            "key": "csp_XYQHiker_哔嘀影视",
+            "name": "🧲哔嘀影视(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/哔嘀影视.json"
         },
         {
             "key": "csp_Ddys",
@@ -599,10 +623,11 @@
             "name": "暴风",
             "hosts": [
                 "bfzy",
-                "bfbfvip"
+                "bfbfvip",
+                "bfengbf"
             ],
             "regex": [
-                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
             ]
         },
         {
@@ -613,22 +638,26 @@
                 ".cdnlz"
             ],
             "regex": [
-                "17.19",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "17.19"
             ]
         },
         {
             "name": "非凡",
             "hosts": [
                 "vip.ffzy",
-                "hd.ffzy"
+                "hd.ffzy",
+                "super.ffzy"
             ],
             "regex": [
-                "17.99",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
+                "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
+                "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
+                "17.99",
+                "14.45"
             ]
         },
         {
@@ -638,8 +667,8 @@
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"
+                "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
+                "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
             ]
         },
         {
@@ -649,7 +678,36 @@
             ],
             "regex": [
                 "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "leshiyun",
+            "hosts": [
+                "leshiyuncdn"
+            ],
+            "regex": [
+                "15.92"
+            ]
+        },
+        {
+            "name": "1080zyk",
+            "hosts": [
+                "high24-playback",
+                "high20-playback"
+            ],
+            "regex": [
+                "16.63"
+            ]
+        },
+        {
+            "name": "555DM",
+            "hosts": [
+                "cqxfjz"
+            ],
+            "regex": [
+                "10.56"
             ]
         },
         {
@@ -671,8 +729,7 @@
                 "magnet"
             ],
             "regex": [
-                "更多"
-            ]
+                "更多"            ]
         }
     ],
     "ijk": [
