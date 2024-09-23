@@ -6,7 +6,11 @@
 
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/王二小/api.json", "name": "王二小" },
 
-{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/PG/api.json", "name": "PG" },
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/摸鱼儿/api.json", "name": "摸鱼儿" },
+
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/潇洒/api.json", "name": "潇洒" },
+
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/天天开心/api.json", "name": "天天开心" },
 
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/香雅情/api.json", "name": "香雅情" },
 
@@ -15,8 +19,6 @@
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/骚零/api.json", "name": "骚零" },
 
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/OK/api.json", "name": "OK" },
-
-{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/白嫖/api.json", "name": "白嫖" },
 
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/戏曲音乐/api.json", "name": "戏曲音乐" },
 

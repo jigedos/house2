@@ -145,7 +145,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.domp4.cc"
+            "ext": "https://www.padmp4.com"
         },
         {
             "key": "csp_New6v",
@@ -393,6 +393,36 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./json/Bili短剧.json"
+        },
+        {
+            "key": "csp_XYQHiker_爱你短剧",
+            "name": "爱你短剧",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/爱你短剧.json"
+        },
+        {
+            "key": "csp_XYQHiker_河马短剧",
+            "name": "河马短剧",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/河马短剧.json"
+        },
+        {
+            "key": "csp_XYQHiker_短剧屋",
+            "name": "短剧屋",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧屋.json"
         },
         {
             "key": "csp_XYQHiker_农民影视",
@@ -729,7 +759,23 @@
                 "magnet"
             ],
             "regex": [
-                "更多"            ]
+                "更多",
+                "社 區",
+                "x u u",
+                "最 新",
+                "更 新",
+                "社 区",
+                "有趣",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "UUE29"
+            ]
         }
     ],
     "ijk": [
