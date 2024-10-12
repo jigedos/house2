@@ -80,18 +80,18 @@
             "changeable": 1
         },
         {
-            "key": "Wexyingchao",
-            "name": "💓鸟巢┃4K💓",
-            "type": 3,
-            "api": "csp_Wexyingchao",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "Wexnullname",
             "name": "💓无名┃4K💓",
             "type": 3,
             "api": "csp_Wexnullname",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexyingchao",
+            "name": "💓鸟巢┃4K💓",
+            "type": 3,
+            "api": "csp_Wexyingchao",
             "searchable": 1,
             "changeable": 1
         },
@@ -256,6 +256,14 @@
             "changeable": 1
         },
         {
+            "key": "Wexdyxs",
+            "name": "🎇先生┃秒播🎇",
+            "type": 3,
+            "api": "csp_Wexdyxs",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "360",
             "name": "🛝360┃采集🛝",
             "type": 1,
@@ -360,6 +368,14 @@
             "changeable": 1
         },
         {
+            "key": "Wexkoukou2",
+            "name": "🌺扣扣┃4K2🌺",
+            "type": 3,
+            "api": "csp_Wexkoukou2",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "Wexjiazitv",
             "name": "🌺甲子┃4K🌺",
             "type": 3,
@@ -447,6 +463,14 @@
             "name": "🍉短剧┃精品🍉",
             "type": 3,
             "api": "csp_Wexduanjuvip",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexlaobaitingshu",
+            "name": "🎃‍白兔┃听书🎃",
+            "type": 3,
+            "api": "csp_Wexlaobaitingshu",
             "searchable": 1,
             "changeable": 1
         },
@@ -539,18 +563,18 @@
             "changeable": 0
         },
         {
-            "key": "Wexciyuancheng",
-            "name": "🤡元城┃番剧🤡",
+            "key": "WexDm84",
+            "name": "🤡巴士┃动漫🤡",
             "type": 3,
-            "api": "csp_Wexciyuancheng",
+            "api": "csp_WexDm84",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "Wexxifan",
-            "name": "🤡喜翻┃番剧🤡",
+            "key": "WexYsj",
+            "name": "🤡异界┃动漫🤡",
             "type": 3,
-            "api": "csp_Wexxifan",
+            "api": "csp_WexYsj",
             "searchable": 1,
             "changeable": 1
         },
@@ -622,6 +646,28 @@
             "name": "🌐88┃体育🌐",
             "type": 3,
             "api": "csp_Kanqiu",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "926看球",
+            "name": "🌐926┃体育🌐",
+            "type": 3,
+            "api": "csp_Wex926kanqiu",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "1直播",
+            "name": "🌐一直┃体育🌐",
+            "type": 3,
+            "api": "csp_Wexzhibo1",
             "searchable": 1,
             "changeable": 0,
             "style": {

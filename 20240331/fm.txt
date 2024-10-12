@@ -12,8 +12,6 @@
 
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/天天开心/api.json", "name": "天天开心[本地]" },
 
-{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/香雅情/api.json", "name": "香雅情[本地]" },
-
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/南风/api.json", "name": "南风[本地]" },
 
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/骚零/api.json", "name": "骚零[本地]" },
@@ -24,6 +22,4 @@
 
 { "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/短剧频道/api.json", "name": "短剧频道[本地]" },
 
-{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/少儿频道/api.json", "name": "少儿频道[本地]" },
-
-{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/动漫频道/api.json", "name": "动漫频道[本地]" }]}
+{ "url": "https://gitee.com/syy9022/qiqi/raw/master/20240331/少儿频道/api.json", "name": "少儿频道[本地]" }]}
