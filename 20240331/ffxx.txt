@@ -77,11 +77,11 @@
         "name": "小胡"
       },
       {
-        "url": "chttps://gitdl.cn/https://raw.githubusercontent.com/jigedos/house2/master/20240331/戏曲音乐/api.json",
+        "url": "https://gitdl.cn/https://raw.githubusercontent.com/jigedos/house2/master/20240331/戏曲音乐/api.json",
         "name": "戏曲音乐"
       },
       {
-        "url": "chttps://gitdl.cn/https://raw.githubusercontent.com/jigedos/house2/master/20240331/短剧频道/api.json",
+        "url": "https://gitdl.cn/https://raw.githubusercontent.com/jigedos/house2/master/20240331/短剧频道/api.json",
         "name": "短剧频道"
       },
       {
